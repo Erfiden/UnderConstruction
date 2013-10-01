@@ -1,0 +1,53 @@
+body {
+  margin: 0px;
+  font-family: 'Roboto',sans-serif;
+  text-decoration:opaque;
+}
+
+#home { 
+  background: url(http://31.media.tumblr.com/bfa626cbda68b696a78ff3ded9c49a24/tumblr_mlb1az0gWv1qb7n75o5_500.gif) 50% 0 no-repeat fixed; 
+  height: 1000px;  
+  margin: 0 auto; 
+    width: 100%; 
+    /*max-width: 1920px; */
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    background-size: 100%;
+}
+#about { 
+  background: url(http://31.media.tumblr.com/848f2e0e830ff5e972c276954146e6de/tumblr_mo1ug36oGM1rn63izo1_500.jpg) 50% 0 no-repeat fixed; 
+  height: 1000px;
+  margin: 0 auto; 
+    width: 100%; 
+    /*max-width: 1920px;*/ 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    background-size: 100%;
+}
+ 
+#home article { 
+  height: 458px; 
+  position: absolute; 
+  text-align: center; 
+  top: 150px; 
+  width: 100%; 
+  color: rgb(250,250,250);
+  font-size: 100px;
+  font-weight: 10px;
+
+}
+ 
+#about article { 
+  height: 458px; 
+  position: absolute; 
+  text-align: center; 
+  top: 150px; 
+  width: 100%;
+  color: rgb(250,250,250);
+  font-size: 100px;
+  font-weight: 10px; 
+  margin: 0;
+}
+
+
+
